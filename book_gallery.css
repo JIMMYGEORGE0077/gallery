@@ -1,0 +1,16 @@
+.c{
+    width: 23%;
+    height: 501px;
+    background-color: rgb(165, 211, 119);
+    color: rgb(15, 10, 10);
+    border: white 8px solid;
+    float: left;
+    padding: 10px;
+}
+img{
+    width: 33%;
+    height: 200px;
+}
+h1{
+    text-align: center;
+}
